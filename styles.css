@@ -60,7 +60,7 @@ body {
     transition: 0.3s ease-in-out;
 }
 
-.counter-btn:hover {
+.counter-btn:active {
     background-color: #fff;
     color: #282828;
 }
